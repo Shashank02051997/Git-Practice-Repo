@@ -4,5 +4,4 @@ from django.contrib import admin
 from .models import AllLifeHacks
 
 admin.site.register(AllLifeHacks)
-#Hi this shashank
-
+# Hi this shashank
